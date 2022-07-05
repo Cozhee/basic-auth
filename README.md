@@ -8,7 +8,7 @@
 Setting up a basic express server to configure heroku deployment and to create tests for basic routes. Implemented with sequelize. Set up encryption and the use of jsonwebtokens. 
 
 ### Links and Resources
-- [Github](https://github.com/Cozhee/bearer-auth/pulls](https://github.com/Cozhee/basic-auth/pulls)
+- [Github](https://github.com/Cozhee/basic-auth/pulls)
 
 ### Setup
 
